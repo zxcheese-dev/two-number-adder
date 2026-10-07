@@ -1,2 +1,2 @@
 # two-number-adder
-my first practice code in C
+***i trying to learn C and this is my first practice code on this language***
