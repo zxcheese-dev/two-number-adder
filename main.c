@@ -19,7 +19,7 @@ int main() {
     printf("%d\n", res);
 
     char skip[10];
-    printf("%s", "найс я сделал??????? ");
+    printf("%s", "найс я сделал??? ");
     scanf("%9s", skip);
 
     return 0;
